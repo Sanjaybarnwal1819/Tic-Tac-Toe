@@ -1,0 +1,1 @@
+This project is a simple, two-player Tic-Tac-Toe game implemented in Java. The game runs in the console and features a 3x3 board where players take turns placing their marks ('X' and 'O'). It's designed to be a straightforward demonstration of basic Java programming concepts, including user input handling, conditional logic, and array manipulation.
